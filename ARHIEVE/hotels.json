@@ -1,0 +1,5 @@
+[
+  {"id_hot": 1,"name_hot": "Beach Resort","city": "Miami","adress": "123 Ocean Drive","rating": "5 stars"},
+  { "id_hot": 2,"name_hot": "Mountain Lodge", "city": "Denver", "adress": "456 Summit Street", "rating": "4 stars"},
+  { "id_hot": 3,"name_hot": "Royal Palace Hotel","city": "London","adress": "789 Buckingham Palace Road","rating": "5 stars"}
+]
